@@ -181,7 +181,7 @@ namespace Sandbox
             a.PosX = (rdr["PosX"] == DBNull.Value) ? 1600 : (int)rdr["PosX"];
             a.PosY = (rdr["PosY"] == DBNull.Value) ? 1600 : (int)rdr["PosY"];
 
-            a.ForecolorA = (rdr["ForecolorAm"] == DBNull.Value) ? 120 : (int)rdr["ForecolorA"];
+            a.ForecolorA = (rdr["ForecolorA"] == DBNull.Value) ? 120 : (int)rdr["ForecolorA"];
             a.ForecolorR = (rdr["ForecolorR"] == DBNull.Value) ? 120 : (int)rdr["ForecolorR"];
             a.ForecolorG = (rdr["ForecolorG"] == DBNull.Value) ? 120 : (int)rdr["ForecolorG"];
             a.ForecolorB = (rdr["ForecolorB"] == DBNull.Value) ? 120 : (int)rdr["ForecolorB"];

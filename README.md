@@ -1,5 +1,5 @@
 # Sandbox
-A tool for writer to plan out their books, by allowing the design and laying out of virtual sticky note and papers. 
+A tool for writers to plan out their books, by allowing the design and laying out of virtual sticky note and papers. 
 
 - Aiden Chen 2024 finalized complete version. 
 
